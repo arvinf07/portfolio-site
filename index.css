@@ -25,7 +25,8 @@ body{
 
 
 
-@media all and (max-width: 1100px){
+/* set up more media queries for different viewports */
+@media all and (max-width: 1000px){
   .name img{
     width: 50%;
   }
