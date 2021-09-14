@@ -10,9 +10,16 @@
   width: 25%;
 }
 
-.icon{
-  width: 5%;
+.contact a{
+  text-decoration: none;
 }
+
+.icon{
+  width: 50px;
+  margin: 0px 30px
+}
+
+
 
 @media all and (max-width: 1100px){
   .name img{
