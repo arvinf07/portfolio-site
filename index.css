@@ -5,3 +5,8 @@
 .jumbotron img{
   width: 100%;
 }
+
+.name img{
+  width: 30%;
+  border-radius: 50%;
+}
